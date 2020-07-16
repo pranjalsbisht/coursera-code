@@ -1,0 +1,35 @@
+body{
+  background-color: #123465;
+  font-size: 16px;
+}
+.navbar-default{
+  border: 0px;
+  border-radius: 0px;
+  background-color: #ff56f4;
+}
+
+#nav-list a {
+  text-align: center;
+  font-size: 1.4em;
+}
+#nav-list a:hover {
+  background: #245355;
+}
+.navbar-default .navbar-brand{
+  color: #123654;
+}
+
+h2{
+  color: black;
+  
+}
+h3{
+  margin: 10px;
+  padding: 10px;
+}
+.row{
+  background-color: #b3b3b3;
+  margin: 10px auto;
+  padding: 10px;
+  font-size: 1.3em;
+}
